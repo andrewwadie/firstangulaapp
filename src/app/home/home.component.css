@@ -1,15 +1,12 @@
 body{
     background-color: #1ABC9C !important;
 }
-h1,p,h2{
-    color: white;
-}
 .line{
     width: 50px;
     height: 5px;
     background-color: white;
     margin: 5px;
 }
-p{
-    margin: 0px;
+.w-10{
+    width: 10%;
 }

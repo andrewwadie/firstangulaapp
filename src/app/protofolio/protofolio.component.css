@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+}
+.bg-white1{
+    background-color: rgba(255, 255, 255 ,.9);
+}
+.col-4:hover .layer{
+    display: block;
+}
+.fixed-layer{
+    background-color: rgba(255, 255, 255 ,.5);
+}

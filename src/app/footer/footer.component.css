@@ -1,0 +1,14 @@
+.row{
+    background-color: #2C3E50;
+}
+li{
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 5px;
+}
+.footer2{
+    background-color: #1A252F;
+}
+p{
+    margin: 0px;
+}
